@@ -30,7 +30,7 @@ function switchOnCharmFromTip(tip){
     return "Thank you so much.";
 } else if (tip === "not as generous") {
     return "Thank you.";
-} else {
+} else { tip=== "thanks for everything"
     return "Bye.";
 }
 
